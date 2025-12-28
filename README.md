@@ -10,9 +10,8 @@ You will find **Colab-ready notebooks**, reusable **Python modules**, **backtest
 
 > **Disclaimer**  
 > This project is provided for **educational and research purposes only**. Lottery outcomes are random, and this code **does not guarantee** any winnings.
-
-You may use, modify, and share this code for **personal, educational, and research purposes only**.  
-**Commercial use is not allowed** without prior written permission from the author.
+> You may use, modify, and share this code for **personal, educational, and research purposes only**.
+> **Commercial use is not allowed** without prior written permission from the author.
 ---
 
 ## What’s Inside
